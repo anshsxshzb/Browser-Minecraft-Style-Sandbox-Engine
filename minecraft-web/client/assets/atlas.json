@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "description": "Placeholder atlas descriptor for future texture packing.",
+    "tileSize": 16
+  },
+  "tiles": {
+    "grass": { "x": 0, "y": 0 },
+    "dirt": { "x": 1, "y": 0 },
+    "stone": { "x": 2, "y": 0 },
+    "log": { "x": 3, "y": 0 }
+  }
+}
