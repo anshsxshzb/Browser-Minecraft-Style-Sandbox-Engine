@@ -1,0 +1,12 @@
+{
+  "tileSize": 64,
+  "columns": 4,
+  "rows": 4,
+  "blocks": {
+    "grass": 0,
+    "dirt": 1,
+    "stone": 2,
+    "log": 3,
+    "leaves": 4
+  }
+}
